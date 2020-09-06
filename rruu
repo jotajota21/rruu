@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1,Globo Ribeirão HD
+http://srv.maxptv.net:8080/lili01/lili01/985
+#EXTINF:-1,Globo Ribeirão SD
+http://srv.maxptv.net:8080/lili01/lili01/986
+#EXTINF:-1,Globo SP HD
+http://srv.maxptv.net:8080/lili01/lili01/72
+#EXTINF:-1,Globo Floripa HD
+http://srv.maxptv.net:8080/lili01/lili01/6234
+#EXTINF:-1,Globo Floripa SD
+http://srv.maxptv.net:8080/lili01/lili01/6235
